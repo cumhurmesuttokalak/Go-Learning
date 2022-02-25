@@ -1,0 +1,32 @@
+[
+  {
+    "isim": "Cumhur",
+    "maas": 5000,
+    "puan": 5
+  },
+  {
+    "isim": "CumhurM",
+    "maas": 5200,
+    "puan": 6
+  },
+  {
+    "isim": "CumhurMe",
+    "maas": 5300,
+    "puan": 7
+  },
+  {
+    "isim": "CumhurMes",
+    "maas": 5400,
+    "puan": 8
+  },
+  {
+    "isim": "CumhurMesu",
+    "maas": 5500,
+    "puan": 9
+  },
+  {
+    "isim": "CumhurMesut",
+    "maas": 6776,
+    "puan": 10
+  }
+]
